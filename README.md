@@ -1,7 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Ryan!</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- [Crowd-Sourced Travel Planner](https://github.com/villafla/cs461_travel_planner)
 
 <!--
-**rdivino/rdivino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rdivino/rdivino* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
