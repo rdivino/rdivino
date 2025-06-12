@@ -8,7 +8,6 @@
 
 <h2>📫 How to reach me:</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/ryan-d-4121a8282/)
 
 
 <!--
